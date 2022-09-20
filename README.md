@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xadamm" target="blank"><img alt="0xadamm" src="https://user-images.githubusercontent.com/94600225/191154517-d4931f4f-36a7-4dd4-b747-29aa77ea8ee3.svg" /></a>
-<a href="https://linkedin.com/in/0xadamm" target="blank"><img alt="0xadamm" src="https://user-images.githubusercontent.com/94600225/191154514-e8bb5c37-3c9d-4d5e-83a5-9fbcddb12b5c.svg" /></a>
+<a href="https://twitter.com/0xadamm" target="_blank"><img alt="0xadamm" src="https://user-images.githubusercontent.com/94600225/191154517-d4931f4f-36a7-4dd4-b747-29aa77ea8ee3.svg" /></a>
+<a href="https://linkedin.com/in/0xadamm" target="_blank"><img alt="0xadamm" src="https://user-images.githubusercontent.com/94600225/191154514-e8bb5c37-3c9d-4d5e-83a5-9fbcddb12b5c.svg" /></a>
 </p>
 
 
