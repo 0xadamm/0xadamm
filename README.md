@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I'm a Full Stack Developer who is passionate about Web3</h3>
+<h3 align="center">I'm a Full Stack Developer building w/ AI & Web3</h3>
 <img align="right" src = "https://user-images.githubusercontent.com/94600225/191146081-c07e82f6-9972-43dd-9ad4-1d9a9eefb379.svg">
 
 
 
-- 🌱 I’m currently learning **Three.JS & React Three Fiber**.
+- 🌱 I’m currently learning **Langchain**.
 
 - 💬 Ask me about **JavaScript & Solidity**.
 
