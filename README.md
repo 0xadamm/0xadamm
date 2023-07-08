@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Langchain**.
+- 🌱 I’m currently learning **Langchain & Python**.
 
 - 💬 Ask me about **JavaScript & Solidity**.
 
