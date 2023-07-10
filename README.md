@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Langchain & Python**.
+- 🌱 I’m currently learning **Langchain & Devops**.
 
-- 💬 Ask me about **JavaScript & Solidity**.
+- 💬 Ask me about **AI or Blockchain**.
 
 - 📫 How to reach me **adam.mourade@gmail.com**!
 
